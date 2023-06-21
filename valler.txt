@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+h1 {
+  color:purple;
+  font-family: Times New Roman;
+  font-size: 400%;
+
+}
+
+p {
+  color: blue;
+  font-family: courier;
+  font-size: 200%;
+  border: 3px solid blue;
+  padding: 30px;
+  margin: 50px;
+  background-color: pink;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Hello why!</h1>
+<p> stream mo kisame by rhodessa</p>
+<p> ganda mo everyday</p>
+<p> friendly date you want</p>
+
+
+
+</body>
+</html>
